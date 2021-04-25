@@ -28,6 +28,6 @@ void loop()
       miservo.write(pos);
       delay(3);
     }
+    delay(18000000);
   }
-  delay(18000000);
 }
